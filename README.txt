@@ -1,4 +1,1 @@
-"hello, my name is Maria" 
-changes 
-
-hh
+one forward arrow ">" to overwrite; 2 ">>" to add to file
